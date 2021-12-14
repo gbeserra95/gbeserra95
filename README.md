@@ -1,12 +1,46 @@
-# hello-word
-Hello, everyone! 
+# Hello, world! 👋
 
-My name is Gabriel and I am getting started with GitHub.
+## My name is Gabriel Beserra, I am a Full Stack Developent student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey to become a Dev!
 
-I am very fond of developing applications and this is an introduction for me to start taking the first step towards a Full Stack Developer career.
+## About me
 
-Currently, I am studying HTML, CSS and JavaScript, but, during college, I studied some programming languages such as C and Python. Now it is time to get professional!
+I am a Control and Automation Engineer who worked as an IT Analyst for Industry projects at Bunge Brazil. 
+As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play with the Full Stack Development world!
 
-I want to code for my living and I hope you all can see my name in the copyrighs of some awesome applications very soon!
+Here you will find the most relevant projects I will be posting during my studies.
+
+Outside the tech world, I love to travel, read books about History and Mistery, play my guitar and sing!
+
+Feel free to connect with me at any social media!
 
 Cheers!
+
+## Connect with me
+<div style="display: flex;">
+  <a href="https://www.linkedin.com/in/-gabrielbeserra/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
+  </a>  
+  <a href="https://www.instagram.com/_gabrielbeserra/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo">
+  </a>
+  </a>
+    <a href="https://www.facebook.com/gabriel.beserra.73">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook logo">
+  </a>
+</div>
+
+## Languages and tools
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbeserra95&layout=compact)](https://github.com/gbeserra95/github-readme-stats)
+
