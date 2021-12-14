@@ -14,8 +14,7 @@ Outside the tech world, I love to travel, read books about History and Mistery, 
 Feel free to contact with me at any social media!
 
 Cheers!
-
-### Connect with me
+<br/>
 <div style="display: flex;">
   <a href="https://www.linkedin.com/in/-gabrielbeserra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
