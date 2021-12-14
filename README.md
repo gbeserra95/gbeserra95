@@ -39,7 +39,3 @@ Cheers!
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbeserra95&layout=compact&theme=omni)](https://github.com/gbeserra95/github-readme-stats)
-
-<a href="https://github.com/gbeserra95/https://github.com/gbeserra95/DEVinHouse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gbeserra95&repo=convoychat&theme=omni" />
-</a>
