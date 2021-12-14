@@ -1,17 +1,17 @@
 # Hello, world! 👋
 
-## My name is Gabriel Beserra, I am a Full Stack Developent student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey to become a Dev!
+## My name is Gabriel Beserra, I am a Full Stack student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey to become a Dev!
 
 ## About me
 
 I am a Control and Automation Engineer who worked as an IT Analyst for Industry projects at Bunge Brazil. 
-As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play with the Full Stack Development world!
+As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play with the Full Stack world!
 
 Here you will find the most relevant projects I will be posting during my studies.
 
 Outside the tech world, I love to travel, read books about History and Mistery, play my guitar and sing!
 
-Feel free to connect with me at any social media!
+Feel free to contact with me at any social media!
 
 Cheers!
 
