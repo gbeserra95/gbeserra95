@@ -39,6 +39,6 @@ Cheers!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='40rem' width='40rem'/>
 </div>
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbeserra95&layout=compact&theme=omni)](https://github.com/gbeserra95/github-readme-stats)
 
