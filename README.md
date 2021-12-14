@@ -11,7 +11,7 @@ Here you will find the most relevant projects I will be posting during my studie
 
 Outside the tech world, I love to travel, read books about History and Mistery, play my guitar and sing!
 
-Feel free to contact with me at any social media!
+Feel free to contact me at any social media!
 
 Cheers!
 <br/>
