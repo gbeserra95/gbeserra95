@@ -4,7 +4,7 @@
 
 ### About me
 
-I am a Control and Automation Engineer who worked as an IT Analyst for Industry projects at Bunge Brazil. 
+I am a Control and Automation Engineer who worked as an IT Analyst for industrial projects at Bunge Brazil. 
 As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play within the Full Stack Developer world!
 
 Here you will find the most relevant projects I will be posting during my studies.
