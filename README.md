@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-## My name is Gabriel Beserra, I am a Full Stack Developer student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey to become a Dev!**
+## My name is Gabriel Beserra, I am a Full Stack Developer student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey to become a Dev!
 
 ### About me
 
