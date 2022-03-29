@@ -1,10 +1,10 @@
 # Hello, world! 👋
 
-## My name is Gabriel Beserra, I am a Full Stack Developer and student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey as a Dev!
+## My name is Gabriel Beserra, I am a Front-End Developer and student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey as a Dev!
 
 ### About me
 
-As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play within the Full Stack Developer world!
+As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play within the Web Stack Development world!
 
 Here you will find the most relevant projects I will be commiting during my studies and career.
 
