@@ -4,7 +4,7 @@
 
 ### About me
 
-As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play within the Web Stack Development world!
+As I am very fond of coding and amazed by all the great things we can create with any programming language, I took the step to understand and play within the Web Development world!
 
 Here you will find the most relevant projects I will be commiting during my studies and career.
 
