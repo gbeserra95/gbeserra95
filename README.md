@@ -18,13 +18,6 @@ Cheers!
   <a href="https://www.linkedin.com/in/-gabrielbeserra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
   </a>  
-  <a href="https://www.instagram.com/_gabrielbeserra/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo">
-  </a>
-  </a>
-    <a href="https://www.facebook.com/gabriel.beserra.73" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook logo">
-  </a>
 </div>
 <br/>
 <div style="display: flex;">
