@@ -29,7 +29,6 @@ Cheers!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='40rem' width='40rem'/>
-  <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" height='30rem' width='120rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='40rem' width='40rem'/>
