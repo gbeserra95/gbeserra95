@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-## My name is Gabriel Beserra, I am a Frontend Developer and student at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey as a Dev!
+## My name is Gabriel Beserra, I am a FullStack Developer graduated at [SENAI's DEVinHouse](https://cadastro.sc.senai.br/l/5yRQf0ABF1174) program and here you can check my journey as a Dev!
 
 ### About me
 
@@ -10,7 +10,7 @@ Here you will find the most relevant projects I will be commiting during my stud
 
 Outside the tech world, I love to travel, read books about History and Mistery, play my guitar and sing!
 
-Feel free to contact me at any social media!
+Feel free to contact me at any social media and my website https://gabrielbeserra.com
 
 Cheers!
 <br/>
@@ -25,9 +25,12 @@ Cheers!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40rem' width='40rem'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='40rem' width='40rem'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='40rem' width='40rem'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='40rem' width='40rem'/>    
+  <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" height='40rem' width='40rem'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='40rem' width='40rem'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='40rem' width='40rem'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='40rem' width='40rem'/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='40rem' width='40rem'/>
+  <img src="  https://www.pngfind.com/pngs/m/418-4183674_microsoft-sql-server-logo-sql-server-logo-svg.png" height='40rem' width='120rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='40rem' width='40rem'/>
 </div>
