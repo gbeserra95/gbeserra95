@@ -10,7 +10,7 @@ Here you will find the most relevant projects I will be commiting during my stud
 
 Outside the tech world, I love to travel, read books about History and Mistery, play my guitar and sing!
 
-Feel free to contact me at any social media and my website https://gabrielbeserra.com
+Feel free to contact me at https://gabrielbeserra.com or any other social media.
 
 Cheers!
 <br/>
@@ -29,8 +29,8 @@ Cheers!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='40rem' width='40rem'/>
+  <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" height='40rem' width='120rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height='40rem' width='40rem'/>
-  <img src="  https://www.pngfind.com/pngs/m/418-4183674_microsoft-sql-server-logo-sql-server-logo-svg.png" height='40rem' width='120rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40rem' width='40rem'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='40rem' width='40rem'/>
 </div>
